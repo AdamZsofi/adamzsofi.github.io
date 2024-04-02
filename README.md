@@ -7,9 +7,9 @@ My PhD advisor is [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/).
 - 2023 - present: **Budapest University of Technology and Economics**
   Computer science PhD, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_
 - 2022 - 2023: **Budapest University of Technology and Economics**
-  Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis22.pdf)
+  Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/msc-thesis.pdf)
 - 2018 - 2022: **Budapest University of Technology and Economics**
-  Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis20.pdf)
+  Computer Engineering BSc &nbsp;
 
 ## <i class="fas fa-globe fa-fw"></i> Internships
 
