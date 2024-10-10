@@ -11,10 +11,14 @@ My PhD advisor is [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/).
 - 2018 - 2022: **Budapest University of Technology and Economics**
   Computer Engineering BSc &nbsp;
 
-## <i class="fas fa-globe fa-fw"></i> Internships
+## <i class="fas fa-globe fa-fw"></i> Internships, Experience
 
+- 2023, 2024 Summer: LMU, Munich, Germany, **Research Stay**
+  _I spent two months working on validation of correctness proofs of hardware and software modelcheckers at the Software Systems Laboratory under the supervision of Prof. Dr. Dirk Beyer, Nian-Ze Lee and Po-Chun Chien._
+- 2022 Summer: CERN, Meyrin, **CERN Summer Student**
+  _I learned about and worked on PLC verification, mainly requirement formalization as part of the Industrial Control Systems Group in the Beam Department for two months._
 - 2021 - 2022: [thyssenkrupp Components Technology Hungary](https://www.thyssenkrupp.hu/hu/), Budapest, Hungary, **Software Engineering Intern**
-  _Researching the applicability of multi-core architectures to existing implementations of automotive software._ 
+  _Developing rules for C verification with static analyzer based on the in-house coding guidelines_
 
 ## <i class="fas fa-handshake fa-fw"></i> Volunteering
 
