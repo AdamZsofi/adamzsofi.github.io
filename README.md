@@ -17,13 +17,17 @@ My PhD advisor is [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/).
   _I spent two months working on validation of correctness proofs of hardware and software modelcheckers at the Software Systems Laboratory under the supervision of Prof. Dr. Dirk Beyer, Nian-Ze Lee and Po-Chun Chien._
 - 2022 Summer: CERN, Meyrin, **CERN Summer Student**
   _I learned about and worked on PLC verification, mainly requirement formalization as part of the Industrial Control Systems Group in the Beam Department for two months._
-- 2021 - 2022: [thyssenkrupp Components Technology Hungary](https://www.thyssenkrupp.hu/hu/), Budapest, Hungary, **Software Engineering Intern**
+- 2021 - 2022: [thyssenkrupp](https://www.thyssenkrupp.hu/hu/), Budapest, Hungary, **Software Engineering Intern**
   _Developing rules for C verification with static analyzer based on the in-house coding guidelines_
 
 ## <i class="fas fa-handshake fa-fw"></i> Volunteering
 
 - 2017 - 2019: [Skool](https://skool.org.hu/), Budapest, Hungary, Mentor & Programming Tutor
   _Helping young girls start their journey with programming and computer science._
+- 2023 - 2024: [Girl's STEM Day](https://lanyoknapja.hu/), Budapest, HU, **Presenter**
+_I was a presenter at the university faculty's open lab program._
+- 2017, 2018, 2024: [Researcher's Night](https://www.kutatokejszakaja.hu/), Budapest, Hungary, **Presenter at Demos**
+_I presented demos at the demonstration organized by my research group (ftsrg) at the university._
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2020 - present: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta)
